@@ -1,2 +1,2 @@
-# website
-Website founder's Nordkraken
+# Website
+Website
