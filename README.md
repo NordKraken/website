@@ -1,2 +1,2 @@
-# Website — NordKraken
+# Website NordKraken
 Website
