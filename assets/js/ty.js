@@ -1,6 +1,6 @@
 var i = 0;
 var txt = 'Crie aplicativos sem linhas infinitas de códigos'; /* The text */
-var speed = 50; /* The speed/duration of the effect in milliseconds */
+var speed = 18; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
   if (i < txt.length) {
@@ -9,5 +9,7 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
   }
 }
+
+window.onload = typeWriter;
 
 
