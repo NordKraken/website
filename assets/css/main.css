@@ -156,3 +156,11 @@ svg,img { max-width: 100%; height: auto; }
 .ds-banner figure{ margin-right: 1.875rem }
 
 }
+
+
+body{
+	background: rgb(0,21,32);
+	background: linear-gradient(180deg, rgba(0,21,32,1) 0%, rgba(0,30,46,1) 100%);
+}
+
+
