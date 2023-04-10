@@ -1,7 +1,9 @@
 # Website NordKraken
-Made with this template: 
+entenda.nordkraken.com
 
-Borstein theme - https://htmltemplates.co/free-website-templates/borstein-free-portfolio-resume-html-template
+### Technologies
 
-### Technologies used
+- Template used: [Borstein theme](https://htmltemplates.co/free-website-templates/borstein-free-portfolio-resume-html-template)
+
 - [Bootsrap](https://getbootstrap.com)
+
