@@ -59,7 +59,7 @@ svg,img { max-width: 100%; height: auto; }
 ----------------------------------------------------------------*/
 .ds-banner{ margin-bottom: 8.125rem }
 .ds-banner-hed{ font-size: 5.3125rem; line-height:5rem  }
-.ds-image-shadow{box-shadow:30px 30px #96ff6d;}
+.ds-image-shadow{box-shadow:30px 30px #05f26c;}
 /*.ds-banner-left{display: flex; justify-content: space-between; flex-direction: column;}*/
 .ds-social{ list-style: none; display: flex; align-items: center;margin-top: 2.5rem }
 .ds-social li{ margin-right: 15px }
@@ -87,7 +87,7 @@ svg,img { max-width: 100%; height: auto; }
 
 .ds-projects-listing-section{ margin-top:5rem  }
 .ds-projects-loop figure{ margin-right: 60px; position: relative; }
-.ds-projects-loop:hover figure img.ds-image-shadow{box-shadow:20px 20px #96ff6d;}
+.ds-projects-loop:hover figure img.ds-image-shadow{box-shadow:20px 20px #05f26c;}
 .ds-link-button{ position: absolute; right:0.4375rem; top:0.4375rem; width: 2rem; height: 2rem; border-radius: 3px; background-color: #000; display: block; justify-content: center; align-items: center; color: #A7FF85; font-size: 1.125rem; text-align: center; opacity: 0 }
 .ds-projects-loop:hover .ds-link-button{ opacity: 1 }
 .ds-projects-loop section{ margin-top: 5.875rem }
@@ -128,7 +128,7 @@ svg,img { max-width: 100%; height: auto; }
 	.ds-banner .container{ position: relative; padding-bottom: 90px }
 	.ds-social{ position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); }
 	.ds-banner figure{ width: 90%; margin: 0 auto; margin-top: 40px }
-	.ds-image-shadow {box-shadow:20px 20px #96ff6d;}
+	.ds-image-shadow {box-shadow:20px 20px #05f26c;}
 	.ds-banner {margin-bottom: 3.5rem;}
 	.ds-resume-section,.ds-projects-section,.ds-testimonials-section,.ds-email-section{ padding: 3.5rem 0 }
 	.ds-resume-section h2,.ds-projects-section h2{ max-width: 100% }
