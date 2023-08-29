@@ -1,5 +1,5 @@
 # Website NordKraken
-[Enter in website.](https://entenda.nordkraken.com)
+[Enter in website.](https://nordkraken.com)
 
 ### Technologies
 
